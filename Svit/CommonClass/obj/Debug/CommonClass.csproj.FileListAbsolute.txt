@@ -1,0 +1,8 @@
+D:\svit-demo\Svit_Demo\Svit\CommonClass\bin\Debug\CommonClass.dll
+D:\svit-demo\Svit_Demo\Svit\CommonClass\bin\Debug\CommonClass.pdb
+D:\svit-demo\Svit_Demo\Svit\CommonClass\bin\Debug\System.Windows.Interactivity.dll
+D:\svit-demo\Svit_Demo\Svit\CommonClass\obj\Debug\CommonClass.csprojAssemblyReference.cache
+D:\svit-demo\Svit_Demo\Svit\CommonClass\obj\Debug\CommonClass.csproj.CoreCompileInputs.cache
+D:\svit-demo\Svit_Demo\Svit\CommonClass\obj\Debug\CommonClass.csproj.CopyComplete
+D:\svit-demo\Svit_Demo\Svit\CommonClass\obj\Debug\CommonClass.dll
+D:\svit-demo\Svit_Demo\Svit\CommonClass\obj\Debug\CommonClass.pdb
